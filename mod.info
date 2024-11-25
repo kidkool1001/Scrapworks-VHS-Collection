@@ -1,0 +1,7 @@
+name=Scrapworks: Metalworking TV Show
+id=MetalworkingTVShow
+description= Learn the metalworking at the rate of carpentry with this TV show.
+poster=poster.png
+require=TVLib
+
+
